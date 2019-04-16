@@ -5,7 +5,7 @@
 @prefix wn: <http://www.w3.org/2006/03/wn/wn20/schema/>.
 
 
-<http:fgfg>
+<https://github.com/Hizkie/DonKo/blob/master/miguel_carvantes.ttl>
     rdf:type 'Person';
     foaf:birthdate '29 September 1547';
     foaf:birthPlace 'Alcalá de Hanares';
